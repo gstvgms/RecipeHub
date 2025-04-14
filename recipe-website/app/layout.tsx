@@ -9,8 +9,8 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "RecipeHub - Delicious Recipes",
-  description: "Discover delicious recipes with our recipe website",
+  title: "RecipeHub - Receitas Deliciosas",
+  description: "Descubra receitas deliciosas e fáceis de fazer no RecipeHub.",
     generator: 'v0.dev'
 }
 
